@@ -1,2 +1,2 @@
-# 8_bit_adder
-a c program to simulate a half adder, a full adder, and using them to simulate a 8 bit adder. a big thanks to Charles Petzold's Code: The Hidden Language of Computer Hardware and Software!
+# digital circuit
+a c program to simulate gates from nmos and pmos, then using these gates to build a 16-bit adder, this adder supports subtraction and overflow detection.
